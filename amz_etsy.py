@@ -2,7 +2,6 @@
 import pandas as pd
 import numpy as np
 from bs4 import BeautifulSoup
-import pymongo
 from splinter import Browser
 from selenium import webdriver
 import urllib.request
