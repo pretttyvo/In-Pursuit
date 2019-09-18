@@ -2,11 +2,9 @@
 import pandas as pd
 import numpy as np
 from bs4 import BeautifulSoup
-from splinter import Browser
 from selenium import webdriver
 import urllib.request
 from selenium.webdriver.chrome.options import Options
-import urllib.request
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.select import Select
 from selenium.webdriver.support.ui import WebDriverWait
